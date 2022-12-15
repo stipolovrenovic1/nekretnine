@@ -1,0 +1,32 @@
+/*
+Theme Name: Nekretnine Tema
+Author: Stipo Lovrenović
+Description: Tema za zadatak
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: borealis
+*/
+
+#mainNav
+{
+	background-color: blue; 
+	margin-top: 0px;
+	height: 0px;
+}
+
+#nekretnine-glavni-menu li
+{
+	margin-right: 10px;
+}
+
+#nekretnine-glavni-menu li a
+{
+	text-decoration: none;
+	color: white;
+}
+
+#nekretnine-glavni-menu li a:hover
+{
+	color: black;
+}
